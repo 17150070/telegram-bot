@@ -9,6 +9,7 @@ from alembic import context
 # access to the values within the .ini file in use.
 from database import Base
 from models.users import User
+from models.rate import Rate
 
 config = context.config
 
