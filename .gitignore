@@ -1,6 +1,6 @@
 venv
 __pycache__
 .idea
-
+config.py
 ### env files
 .env
